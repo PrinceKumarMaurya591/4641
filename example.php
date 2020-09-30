@@ -50,6 +50,7 @@ include "data.php";
 <li>Our code</li>
 <li>Our proposal</li>
 <li>Our analysis and conclusion</li>
+<li>Thanks for comming</li>
 </ul>
 
 </div>
