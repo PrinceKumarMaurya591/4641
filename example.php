@@ -6,6 +6,7 @@ include "data.php";
 ?>
 
 <div class="container-fluid">
+<h5>Amazing Website</h5>
 
 <h4>Reinforcement Learning Agent to play Mario</h4>
 <p>Reinforcement learning is a learning-control technique concerned with how an agent should take actions in an environment so as to maximize some notion of long-term reward. Reinforcement learning algorithms attempt to find policies that choose optimal actions. In this project, we will get a more comprehensive understanding on reinforcement learning by implementing it in Processing.</p>
@@ -17,6 +18,7 @@ include "data.php";
 <p>For our MDP simulator we will need to setup a grid world with the following components</p>
 
 <ol>
+
 <li>Reward function based upon agent state.</li>
 <li>Transition function based upon an agent action.</li>
 <li>Goal, start, and impassible states.</li>
